@@ -23,6 +23,12 @@ Relational database design with SQL queries, indexes, and stored procedures.
 ### Housing Price Analysis
 Exploratory data analysis and visualization of housing market data using Python.
 
+### Labor Market Analysis of Saint Petersburg
+Statistical analysis of labor market trends, employment structure, and wage distribution.
+
+### Digital Markets in Russia
+Economic analysis of digital platform markets and regulatory challenges.
+
 ## Education
 
 Lomonosov Moscow State University  
